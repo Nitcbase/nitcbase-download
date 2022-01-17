@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="Remote Host (64c4b84a-10f3-4a47-8c79-45c927b07629)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/XFS_Interface_Code" local="$PROJECT_DIR$/XFS_Interface_Code" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
